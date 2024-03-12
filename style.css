@@ -1,0 +1,35 @@
+    
+   .bartop{
+      background-color:  #213555;
+    }
+    
+  .navbar-collapse{
+    color: #F0F0F0; 
+    }
+    
+  .nav-link{
+  background-color: transparent!important;
+  color: #F0F0F0; 
+  }
+
+  .active{
+  color: #E5D283!important;
+  }
+      
+  .logo{
+  outline: #E5D283;
+  }
+
+  .worksamples{
+  background-color: #E5D283;
+  }
+
+  .btn{
+    margin: 30px;
+  }
+
+  footer {
+  background-color: #213555;
+  color: #F0F0F0;
+  padding: 25px;
+  }
