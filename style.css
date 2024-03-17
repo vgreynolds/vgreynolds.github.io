@@ -1,19 +1,19 @@
     
    .bartop{
-      background-color:  #213555;
+    background-color: #E5D283;
     }
     
   .navbar-collapse{
     color: #F0F0F0; 
     }
     
-  .nav-link{
+   .nav-link{
   background-color: transparent!important;
-  color: #F0F0F0; 
+  color: #213555; 
   }
 
   .active{
-  color: #E5D283!important;
+  color: #F0F0F0!important;
   }
       
   .logo{
